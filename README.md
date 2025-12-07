@@ -1,4 +1,4 @@
-# ⚡Quilles-Pulse⚡🔋🚗🛺
+# ⚡Battery Management System⚡🔋🚗🛺
 
 ## ⚡IoT-Based Battery Health Monitoring System for EV Charging.
 
@@ -159,9 +159,6 @@ Below are some screenshots of the Quilles project in action:
 
 Feel free to open issues or submit pull requests if you have improvements or fixes.
 
-## 🔋License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## ⚡Authors⚡
 
